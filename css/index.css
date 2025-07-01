@@ -845,7 +845,7 @@ header.scrolled {
   }
 
 .tarjetasservicios_mainpage img {
-    max-width: 250px;
+    width: 200px;
     margin: 0;
 }
 
