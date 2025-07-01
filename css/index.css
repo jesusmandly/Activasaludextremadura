@@ -844,6 +844,11 @@ header.scrolled {
     font-size: 0.95em;
   }
 
+.tarjetasservicios_mainpage img {
+    max-width: 250px;
+    margin: 0;
+}
+
   .textonavegacion_2 {
     font-size: 1em;
   }
