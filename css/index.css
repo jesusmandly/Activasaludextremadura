@@ -818,6 +818,14 @@ header.scrolled {
     padding: 25px 15px;
   }
 
+  .tarjetasservicios_mainpage img {
+  width: 100%;
+  height: auto;
+  max-width: 300px;
+  margin: 0 auto 20px;
+  display: block;
+}
+
   .servicios_tituloysubtitulo {
     font-size: 1.2em;
   }
