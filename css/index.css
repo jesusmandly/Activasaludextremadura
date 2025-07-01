@@ -698,7 +698,11 @@ header.scrolled {
 }
 
 .tarjetasservicios_mainpage img {
-  margin-bottom: 20px;
+  width: 100%;
+  height: auto;
+  max-width: 300px;
+  margin: 0 auto 20px;
+  display: block;
 }
 
 .tarjetasservicios_mainpage h3 {
