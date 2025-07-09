@@ -348,6 +348,8 @@ header.scrolled {
   clip: rect(0, 0, 0, 0); 
   white-space: nowrap; /* evita salto de línea */
   border: 0;
+  font-size: 1px; /* Añadido para evitar el warning */
+  line-height: 1;
 }
 
 .subtitleextremadura {
